@@ -1,0 +1,1 @@
+/Users/zanderraycraft/Documents/personalProjects/text_editor_rust/TextEditor/rust-backend/target/debug/rust-backend: /Users/zanderraycraft/Documents/personalProjects/text_editor_rust/TextEditor/rust-backend/src/main.rs

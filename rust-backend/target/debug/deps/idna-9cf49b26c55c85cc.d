@@ -1,0 +1,10 @@
+/Users/zanderraycraft/Documents/personalProjects/text_editor_rust/TextEditor/rust-backend/target/debug/deps/idna-9cf49b26c55c85cc.rmeta: /Users/zanderraycraft/.cargo/registry/src/index.crates.io-6f17d22bba15001f/idna-0.2.3/src/lib.rs /Users/zanderraycraft/.cargo/registry/src/index.crates.io-6f17d22bba15001f/idna-0.2.3/src/punycode.rs /Users/zanderraycraft/.cargo/registry/src/index.crates.io-6f17d22bba15001f/idna-0.2.3/src/uts46.rs /Users/zanderraycraft/.cargo/registry/src/index.crates.io-6f17d22bba15001f/idna-0.2.3/src/uts46_mapping_table.rs
+
+/Users/zanderraycraft/Documents/personalProjects/text_editor_rust/TextEditor/rust-backend/target/debug/deps/libidna-9cf49b26c55c85cc.rlib: /Users/zanderraycraft/.cargo/registry/src/index.crates.io-6f17d22bba15001f/idna-0.2.3/src/lib.rs /Users/zanderraycraft/.cargo/registry/src/index.crates.io-6f17d22bba15001f/idna-0.2.3/src/punycode.rs /Users/zanderraycraft/.cargo/registry/src/index.crates.io-6f17d22bba15001f/idna-0.2.3/src/uts46.rs /Users/zanderraycraft/.cargo/registry/src/index.crates.io-6f17d22bba15001f/idna-0.2.3/src/uts46_mapping_table.rs
+
+/Users/zanderraycraft/Documents/personalProjects/text_editor_rust/TextEditor/rust-backend/target/debug/deps/idna-9cf49b26c55c85cc.d: /Users/zanderraycraft/.cargo/registry/src/index.crates.io-6f17d22bba15001f/idna-0.2.3/src/lib.rs /Users/zanderraycraft/.cargo/registry/src/index.crates.io-6f17d22bba15001f/idna-0.2.3/src/punycode.rs /Users/zanderraycraft/.cargo/registry/src/index.crates.io-6f17d22bba15001f/idna-0.2.3/src/uts46.rs /Users/zanderraycraft/.cargo/registry/src/index.crates.io-6f17d22bba15001f/idna-0.2.3/src/uts46_mapping_table.rs
+
+/Users/zanderraycraft/.cargo/registry/src/index.crates.io-6f17d22bba15001f/idna-0.2.3/src/lib.rs:
+/Users/zanderraycraft/.cargo/registry/src/index.crates.io-6f17d22bba15001f/idna-0.2.3/src/punycode.rs:
+/Users/zanderraycraft/.cargo/registry/src/index.crates.io-6f17d22bba15001f/idna-0.2.3/src/uts46.rs:
+/Users/zanderraycraft/.cargo/registry/src/index.crates.io-6f17d22bba15001f/idna-0.2.3/src/uts46_mapping_table.rs:
