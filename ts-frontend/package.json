@@ -14,8 +14,10 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
+    "start": "concurrently \"npm run build:rust\" \"react-scripts start\"",
+    "build": "concurrently \"npm run build:rust\" \"npm run build:react\"",
+    "build:rust": "cd ../rust-backend && cargo run --manifest-path=Cargo.toml",
+    "build:react": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
