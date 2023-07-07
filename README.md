@@ -1,4 +1,4 @@
-# TextEditor
+# TextEditor [WIP]
 React text editor using rust as the backend and typescript as the front end
 
 <h2>Tech Stack</h2>
